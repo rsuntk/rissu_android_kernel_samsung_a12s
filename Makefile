@@ -10,7 +10,7 @@ export ANDROID_MAJOR_VERSION=t
 export PLATFORM_VERSION=13
 
 # Add ksu option
-$(shell sh ksu.sh)
+#$(shell sh ksu.sh)
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
